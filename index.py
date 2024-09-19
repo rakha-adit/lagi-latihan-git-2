@@ -1,1 +1,1 @@
-print("Hello World!")
+print("Aku lagi latihan Git")
